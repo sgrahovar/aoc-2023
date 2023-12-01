@@ -1,0 +1,274 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "7AE8FF15-1BDB-4184-994D-6BE080F26696"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "DD6B7B7A-4B82-43FA-BCCC-E5283E750AB9"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "aoc/Day1/Day1.cpp"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "49"
+            endingLineNumber = "49"
+            landmarkName = "solveFirst()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "DD6B7B7A-4B82-43FA-BCCC-E5283E750AB9 - 3d71e855d6e93b4a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Day1::solveFirst()"
+                  moduleName = "aoc"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sanjin.grahovar-sadikovic/Projects/aoc-2023/aoc/aoc/Day1/Day1.cpp"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "47"
+                  endingLineNumber = "47"
+                  offsetFromSymbolStart = "96">
+               </Location>
+               <Location
+                  uuid = "DD6B7B7A-4B82-43FA-BCCC-E5283E750AB9 - 3d71e855d6e93a8c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Day1::solveFirst()"
+                  moduleName = "aoc"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sanjin.grahovar-sadikovic/Projects/aoc-2023/aoc/aoc/Day1/Day1.cpp"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "49"
+                  endingLineNumber = "49"
+                  offsetFromSymbolStart = "96">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "6A56E578-C18F-489D-86BA-ED358ED84B09"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "aoc/Day1/Day1.cpp"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "35"
+            endingLineNumber = "35"
+            landmarkName = "loadInput(inputFile)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "6A56E578-C18F-489D-86BA-ED358ED84B09 - 8bfb4a741cd2807"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Day1::loadInput(std::__1::basic_string&lt;char, std::__1::char_traits&lt;char&gt;, std::__1::allocator&lt;char&gt;&gt;)"
+                  moduleName = "aoc"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sanjin.grahovar-sadikovic/Projects/aoc-2023/aoc/aoc/Day1/Day1.cpp"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "35"
+                  endingLineNumber = "35"
+                  offsetFromSymbolStart = "116">
+               </Location>
+               <Location
+                  uuid = "6A56E578-C18F-489D-86BA-ED358ED84B09 - 8bfb4a741cd28f8"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Day1::loadInput(std::__1::basic_string&lt;char, std::__1::char_traits&lt;char&gt;, std::__1::allocator&lt;char&gt;&gt;)"
+                  moduleName = "aoc"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sanjin.grahovar-sadikovic/Projects/aoc-2023/aoc/aoc/Day1/Day1.cpp"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "36"
+                  endingLineNumber = "36"
+                  offsetFromSymbolStart = "112">
+               </Location>
+               <Location
+                  uuid = "6A56E578-C18F-489D-86BA-ED358ED84B09 - 8bfb4a741cd28d9"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Day1::loadInput(std::__1::basic_string&lt;char, std::__1::char_traits&lt;char&gt;, std::__1::allocator&lt;char&gt;&gt;)"
+                  moduleName = "aoc"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sanjin.grahovar-sadikovic/Projects/aoc-2023/aoc/aoc/Day1/Day1.cpp"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "37"
+                  endingLineNumber = "37"
+                  offsetFromSymbolStart = "204">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "B766A183-ECCF-4FBD-8D76-294852098880"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "aoc/Day1/Day1.cpp"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "97"
+            endingLineNumber = "97"
+            landmarkName = "solveSecond()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "735F8BB0-34C8-4ACB-B5DC-5760DDEAAABA"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "aoc/Day1/Day1.cpp"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "75"
+            endingLineNumber = "75"
+            landmarkName = "isNumber(line, begin)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "735F8BB0-34C8-4ACB-B5DC-5760DDEAAABA - 49667d1e262e14a3"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Day1::isNumber(std::__1::basic_string&lt;char, std::__1::char_traits&lt;char&gt;, std::__1::allocator&lt;char&gt;&gt;, int)"
+                  moduleName = "aoc"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sanjin.grahovar-sadikovic/Projects/aoc-2023/aoc/aoc/Day1/Day1.cpp"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "75"
+                  endingLineNumber = "75"
+                  offsetFromSymbolStart = "524">
+               </Location>
+               <Location
+                  uuid = "735F8BB0-34C8-4ACB-B5DC-5760DDEAAABA - 49667d1e262e148c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Day1::isNumber(std::__1::basic_string&lt;char, std::__1::char_traits&lt;char&gt;, std::__1::allocator&lt;char&gt;&gt;, int)"
+                  moduleName = "aoc"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sanjin.grahovar-sadikovic/Projects/aoc-2023/aoc/aoc/Day1/Day1.cpp"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "76"
+                  endingLineNumber = "76"
+                  offsetFromSymbolStart = "660">
+               </Location>
+               <Location
+                  uuid = "735F8BB0-34C8-4ACB-B5DC-5760DDEAAABA - 49667d1e262e14ed"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Day1::isNumber(std::__1::basic_string&lt;char, std::__1::char_traits&lt;char&gt;, std::__1::allocator&lt;char&gt;&gt;, int)"
+                  moduleName = "aoc"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sanjin.grahovar-sadikovic/Projects/aoc-2023/aoc/aoc/Day1/Day1.cpp"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "77"
+                  endingLineNumber = "77"
+                  offsetFromSymbolStart = "584">
+               </Location>
+               <Location
+                  uuid = "735F8BB0-34C8-4ACB-B5DC-5760DDEAAABA - 49667d1e262e148c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Day1::isNumber(std::__1::basic_string&lt;char, std::__1::char_traits&lt;char&gt;, std::__1::allocator&lt;char&gt;&gt;, int)"
+                  moduleName = "aoc"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sanjin.grahovar-sadikovic/Projects/aoc-2023/aoc/aoc/Day1/Day1.cpp"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "76"
+                  endingLineNumber = "76"
+                  offsetFromSymbolStart = "540">
+               </Location>
+               <Location
+                  uuid = "735F8BB0-34C8-4ACB-B5DC-5760DDEAAABA - 49667d1e262e148c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Day1::isNumber(std::__1::basic_string&lt;char, std::__1::char_traits&lt;char&gt;, std::__1::allocator&lt;char&gt;&gt;, int)"
+                  moduleName = "aoc"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sanjin.grahovar-sadikovic/Projects/aoc-2023/aoc/aoc/Day1/Day1.cpp"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "76"
+                  endingLineNumber = "76"
+                  offsetFromSymbolStart = "532">
+               </Location>
+               <Location
+                  uuid = "735F8BB0-34C8-4ACB-B5DC-5760DDEAAABA - 49667d1e262e148c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Day1::isNumber(std::__1::basic_string&lt;char, std::__1::char_traits&lt;char&gt;, std::__1::allocator&lt;char&gt;&gt;, int)"
+                  moduleName = "aoc"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sanjin.grahovar-sadikovic/Projects/aoc-2023/aoc/aoc/Day1/Day1.cpp"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "76"
+                  endingLineNumber = "76"
+                  offsetFromSymbolStart = "528">
+               </Location>
+               <Location
+                  uuid = "735F8BB0-34C8-4ACB-B5DC-5760DDEAAABA - 49667d1e262e148c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Day1::isNumber(std::__1::basic_string&lt;char, std::__1::char_traits&lt;char&gt;, std::__1::allocator&lt;char&gt;&gt;, int)"
+                  moduleName = "aoc"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sanjin.grahovar-sadikovic/Projects/aoc-2023/aoc/aoc/Day1/Day1.cpp"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "76"
+                  endingLineNumber = "76"
+                  offsetFromSymbolStart = "556">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "6E014B24-55F2-45EC-867E-C2D03F3677A6"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "aoc/Day1/Day1.cpp"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "108"
+            endingLineNumber = "108"
+            landmarkName = "solveSecond()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
