@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		890C0F852B1B203000497E2F /* Day2.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 890C0F832B1B203000497E2F /* Day2.cpp */; };
 		8942891C2B19889200C41885 /* main.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 8942891B2B19889200C41885 /* main.cpp */; };
 		894289262B1988E900C41885 /* Day1.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 894289242B1988E900C41885 /* Day1.cpp */; };
 /* End PBXBuildFile section */
@@ -25,6 +26,9 @@
 
 /* Begin PBXFileReference section */
 		890C0F7D2B1A1E5100497E2F /* input_example_2.txt */ = {isa = PBXFileReference; lastKnownFileType = text; path = input_example_2.txt; sourceTree = "<group>"; };
+		890C0F822B1B203000497E2F /* input_example.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = input_example.txt; sourceTree = "<group>"; };
+		890C0F832B1B203000497E2F /* Day2.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = Day2.cpp; sourceTree = "<group>"; };
+		890C0F842B1B203000497E2F /* input_first.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = input_first.txt; sourceTree = "<group>"; };
 		894289182B19889200C41885 /* aoc */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = aoc; sourceTree = BUILT_PRODUCTS_DIR; };
 		8942891B2B19889200C41885 /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
 		894289232B1988E900C41885 /* input_first.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = input_first.txt; sourceTree = "<group>"; };
@@ -43,6 +47,16 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		890C0F802B1B202200497E2F /* Day2 */ = {
+			isa = PBXGroup;
+			children = (
+				890C0F832B1B203000497E2F /* Day2.cpp */,
+				890C0F822B1B203000497E2F /* input_example.txt */,
+				890C0F842B1B203000497E2F /* input_first.txt */,
+			);
+			path = Day2;
+			sourceTree = "<group>";
+		};
 		8942890F2B19889200C41885 = {
 			isa = PBXGroup;
 			children = (
@@ -62,6 +76,7 @@
 		8942891A2B19889200C41885 /* aoc */ = {
 			isa = PBXGroup;
 			children = (
+				890C0F802B1B202200497E2F /* Day2 */,
 				894289222B1988D700C41885 /* Day1 */,
 				8942891B2B19889200C41885 /* main.cpp */,
 			);
@@ -136,6 +151,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				890C0F852B1B203000497E2F /* Day2.cpp in Sources */,
 				894289262B1988E900C41885 /* Day1.cpp in Sources */,
 				8942891C2B19889200C41885 /* main.cpp in Sources */,
 			);
