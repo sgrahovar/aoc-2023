@@ -10,6 +10,7 @@
 		890C0F852B1B203000497E2F /* Day2.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 890C0F832B1B203000497E2F /* Day2.cpp */; };
 		8942891C2B19889200C41885 /* main.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 8942891B2B19889200C41885 /* main.cpp */; };
 		894289262B1988E900C41885 /* Day1.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 894289242B1988E900C41885 /* Day1.cpp */; };
+		89D9B9012B1C99F6007FEB03 /* Day3.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 89D9B8FE2B1C99F6007FEB03 /* Day3.cpp */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -34,6 +35,9 @@
 		894289232B1988E900C41885 /* input_first.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = input_first.txt; sourceTree = "<group>"; };
 		894289242B1988E900C41885 /* Day1.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = Day1.cpp; sourceTree = "<group>"; };
 		894289252B1988E900C41885 /* input_example.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = input_example.txt; sourceTree = "<group>"; };
+		89D9B8FE2B1C99F6007FEB03 /* Day3.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = Day3.cpp; sourceTree = "<group>"; };
+		89D9B8FF2B1C99F6007FEB03 /* input_example.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = input_example.txt; sourceTree = "<group>"; };
+		89D9B9002B1C99F6007FEB03 /* input_first.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = input_first.txt; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -76,6 +80,7 @@
 		8942891A2B19889200C41885 /* aoc */ = {
 			isa = PBXGroup;
 			children = (
+				89D9B8FD2B1C99D9007FEB03 /* Day3 */,
 				890C0F802B1B202200497E2F /* Day2 */,
 				894289222B1988D700C41885 /* Day1 */,
 				8942891B2B19889200C41885 /* main.cpp */,
@@ -92,6 +97,16 @@
 				894289232B1988E900C41885 /* input_first.txt */,
 			);
 			path = Day1;
+			sourceTree = "<group>";
+		};
+		89D9B8FD2B1C99D9007FEB03 /* Day3 */ = {
+			isa = PBXGroup;
+			children = (
+				89D9B8FE2B1C99F6007FEB03 /* Day3.cpp */,
+				89D9B8FF2B1C99F6007FEB03 /* input_example.txt */,
+				89D9B9002B1C99F6007FEB03 /* input_first.txt */,
+			);
+			path = Day3;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -153,6 +168,7 @@
 			files = (
 				890C0F852B1B203000497E2F /* Day2.cpp in Sources */,
 				894289262B1988E900C41885 /* Day1.cpp in Sources */,
+				89D9B9012B1C99F6007FEB03 /* Day3.cpp in Sources */,
 				8942891C2B19889200C41885 /* main.cpp in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;

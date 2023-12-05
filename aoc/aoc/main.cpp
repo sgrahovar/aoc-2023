@@ -15,6 +15,7 @@
 
 #include "Day1/Day1.cpp"
 #include "Day2/Day2.cpp"
+#include "Day3/Day3.cpp"
 
 
 
@@ -26,13 +27,13 @@ int main(int argc, const char * argv[]) {
     // std::cout << "Day 1, challenge 1: " << day1.solveFirst() << std::endl << std::endl;
     // std::cout << "Day 1, challenge 2: " << day1.solveSecond() << std::endl << std::endl;
     
-    Day2 day2;
+    // Day2 day2;
     // std::cout << "Day 2, challenge 1: " << day2.solveFirst() << std::endl << std::endl;
-    std::cout << "Day 2, challenge 2: " << day2.solveSecond() << std::endl << std::endl << std::endl;
+    // std::cout << "Day 2, challenge 2: " << day2.solveSecond() << std::endl << std::endl << std::endl;
     
-    // Day3 day3;
+    Day3 day3;
     // std::cout << "Day 3, challenge 1: " << day3.solveFirst() << std::endl << std::endl;
-    // std::cout << "Day 3, challenge 1: " << day3.solveSecond() << std::endl << std::endl << std::endl;
+    std::cout << "Day 3, challenge 2: " << day3.solveSecond() << std::endl << std::endl << std::endl;
     
     // Day4 day4;
     // std::cout << "Day 4, challenge 1: " << day4.solveFirst() << std::endl << std::endl;
